@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="26475" started-at="2018-09-24T13:14:30Z" finished-at="2018-09-24T13:14:57Z">
+  <suite name="Default suite" duration-ms="63603" started-at="2018-09-25T09:44:32Z" finished-at="2018-09-25T09:45:35Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="26475" started-at="2018-09-24T13:14:30Z" finished-at="2018-09-24T13:14:57Z">
+    <test name="Default test" duration-ms="63603" started-at="2018-09-25T09:44:32Z" finished-at="2018-09-25T09:45:35Z">
       <class name="com.TestPages.TestLogin">
-        <test-method status="PASS" signature="checkValidUser()[pri:0, instance:com.TestPages.TestLogin@56ac3a89]" name="checkValidUser" duration-ms="26412" started-at="2018-09-24T18:44:30Z" finished-at="2018-09-24T18:44:57Z">
+        <test-method status="PASS" signature="checkValidUser()[pri:0, instance:com.TestPages.TestLogin@5bcab519]" name="checkValidUser" duration-ms="60887" started-at="2018-09-25T15:14:32Z" finished-at="2018-09-25T15:15:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkValidUser -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.TestPages.TestLogin@56ac3a89]" name="closeBrowser" is-config="true" duration-ms="46" started-at="2018-09-24T18:44:57Z" finished-at="2018-09-24T18:44:57Z">
+        <test-method status="PASS" signature="checkAddCustomer()[pri:0, instance:com.TestPages.TestLogin@5bcab519]" name="checkAddCustomer" duration-ms="2667" started-at="2018-09-25T15:15:33Z" finished-at="2018-09-25T15:15:35Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- closeBrowser -->
+        </test-method> <!-- checkAddCustomer -->
       </class> <!-- com.TestPages.TestLogin -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

@@ -41,7 +41,7 @@ public class LoginPage {
 		
 		//System.out.println(driver.getTitle());
 		
-		assertEquals(driver.getTitle(), "Guru99 Bank Manager HomePage1");
+		assertEquals(driver.getTitle(), "Guru99 Bank Manager HomePage");
 		System.out.println("Login Successful...");
 	}
 	

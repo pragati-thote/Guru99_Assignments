@@ -5,8 +5,8 @@
     <classes>
       <class name="com.TestPages.TestLogin">
         <methods>
+          <include name="checkAddCustomer"/>
           <include name="checkValidUser"/>
-          <include name="closeBrowser"/>
         </methods>
       </class> <!-- com.TestPages.TestLogin -->
     </classes>
